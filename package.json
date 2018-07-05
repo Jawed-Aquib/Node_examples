@@ -1,0 +1,14 @@
+{
+  "name": "express_example",
+  "version": "1.0.0",
+  "description": "Simple Node Module",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index"
+  },
+  "author": "aquib jawed",
+  "license": "ISC"
+}
